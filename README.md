@@ -104,16 +104,16 @@ Download/Clone the repository.
 
 There are two projects,  
 
-1. CSharpCodingChallenge: It is the main project(.NET CLI Project). This contains a class "OldPhoneKeyPad" where the method **"OldPhonePad"** is implemented.
-2. CSharpCodingChallenge.Tests: It is the test project(.NET xUnit Project). It contains a **OldPhonePadTests** where the test codes are written.
+1. ***CSharpCodingChallenge:*** It is the main project(.NET CLI Project). This contains a class **"OldPhoneKeyPad"** where the method **"OldPhonePad"** is implemented.
+2. ***CSharpCodingChallenge.Tests:*** It is the test project(.NET xUnit Project). It contains a class **OldPhonePadTests** where the test codes are written.
 
 ### With Visual Studio
-Open the .sln file and Run the CSharpCodingChallenge project. It will start a CLI and ask for input. 
+Open the .sln file and then build and Run the **CSharpCodingChallenge** project. It will start a CLI and ask for input. 
 
 Give the input string and it will calculate and print the output in the CLI. 
 
 
-For **tests**, do "Run Tests" by right clicking the project  CSharpCodingChallenge.Tests which will run all the tests. 
+For **tests**, do "Run Tests" by right clicking the project **CSharpCodingChallenge.Tests** which will run all the tests. 
 
 
 ### With CLI
