@@ -123,6 +123,7 @@ Open the console on the directory where the .sln file exists.
 For the main project run the following command. 
 
 ```console
+dotnet build
 dotnet run --project=CSharpCodingChallenge\CSharpCodingChallenge.csproj
 ```
 
